@@ -8,8 +8,8 @@ Used information from;
 *Sorin @ https://www.cfd-online.com/Forums/fluent/46143-looking-smart-interface-matlab-fluent.html
 *and https://dl.cfdexperts.net/cfd_resources/Ansys_Documentation/Fluent/Ansys_Fluent_as_a_Server_Users_Guide.pdf
 FLUENT_AAS=1
-!!!Warning: can slow down workbench project. On the other hand, standalone
-with admn rights haven't tested so there might be no slowing down!!!
+!!!Warning: can slow down workbench project. 
+On the other hand, the problem haven't experienced in Standalone yet!!!
 -----------------------------------------
 %}
 
