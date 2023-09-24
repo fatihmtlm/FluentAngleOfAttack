@@ -7,7 +7,10 @@ Author: Fatih Demirtaş
 Used information from; 
 *Sorin @ https://www.cfd-online.com/Forums/fluent/46143-looking-smart-interface-matlab-fluent.html
 *and https://dl.cfdexperts.net/cfd_resources/Ansys_Documentation/Fluent/Ansys_Fluent_as_a_Server_Users_Guide.pdf
-FLUENT_AAS=1
+||||||||||||SETUP||||||||||||||
+use FLUENT_AAS=1 in environment variable
+For this script to work, enclosure boundary conditions must named as input and sides ,and both must be set as pressure far field
+|||||||||||||||||||||||||||||||
 !!!Warning: can slow down workbench project. 
 On the other hand, the problem haven't experienced in Standalone yet!!!
 -----------------------------------------
